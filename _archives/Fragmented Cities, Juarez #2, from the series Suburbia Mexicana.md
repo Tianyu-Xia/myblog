@@ -1,5 +1,5 @@
 ---
-layout: digitalobject
+layouts: digitalobject
 artist: Alejandro Cartagena
 date_created: 2007
 date_acquired: 2009

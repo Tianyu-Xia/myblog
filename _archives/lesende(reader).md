@@ -1,5 +1,5 @@
 ---
-layout: painting
+layouts: digitalobject
 artist: Gerhard Richter
 date_created: 1994
 date_acquired: 1997
